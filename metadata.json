@@ -1,0 +1,9 @@
+{
+  "name": "SABR Digital | Wiltshire Neon Grid",
+  "description": "A high-end, friendly web studio in Wiltshire. Melding TRON-legacy aesthetics with local British reliability. Modern, clean, and highly animated.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
